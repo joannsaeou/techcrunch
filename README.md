@@ -2,7 +2,7 @@
 # 100Devs
 
 
-Name of project:  techcrunch
+Name of project:  techcrunch - wireframe
 
 
 This is a CSS layout challenge  that I practiced in this cohort 100Devs
